@@ -11,7 +11,7 @@
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Tibia. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código e isso me fascinava profundamente.
 - 🧮 &nbsp; Com o passar do tempo trabalhei em diversas areas até me encontrar na gestão de projetos e pessoas, e olhando para a area de T.I encontrei a gestão de produtos
 - 💻 &nbsp; Atualmente, trabalho como programador CNC, para maquinas em marcenaria, mas tenho atuado em projetos voluntarios como PO, e adquirindo experiencia para fazer a transição de carreira.
-- 🥋 &nbsp; Sou apaixonado artes marciais, pratiquei por 20 anos , e 15 deles como professor/tecnico de times
+- 🥋 &nbsp; Sou apaixonado por artes marciais, pratiquei por 20 anos , e 15 deles como professor/técnico de times
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
