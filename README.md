@@ -20,8 +20,5 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![João Avila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avilajoao&show_icons=true&theme=dracula)
