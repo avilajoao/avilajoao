@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://instagram.com/o.avilahz"><img src="https://img.shields.io/badge/-@o.avilahz_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hizoavila/"><img src="https://img.shields.io/badge/-%20João%20Avila-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/avilasm22@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:avilasm22@gmail.com"><img src="https://img.shields.io/badge/avilasm22@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
