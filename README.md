@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, me chamo João, estudante Gestor de Produto e estudante fullstack apaixonado pelo que faz !</h1>
+<h1>👋 &nbsp;Olá, me chamo João, Gestor de Produto e estudante fullstack apaixonado pelo que faz !</h1>
 <p align="center">
 <a href="https://instagram.com/o.avilahz"><img src="https://img.shields.io/badge/-@o.avilahz_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hizoavila/"><img src="https://img.shields.io/badge/-%20João%20Avila-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
